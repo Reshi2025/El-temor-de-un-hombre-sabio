@@ -1,96 +1,46 @@
-[22:06:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:07:01] [ServerMain/INFO]: Loaded 7 recipes
-[22:07:01] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[22:07:01] [Server thread/INFO]: Loading properties
-[22:07:01] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[22:07:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:07:02] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:07:02] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[22:58:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:59:00] [ServerMain/INFO]: Loaded 7 recipes
+[22:59:01] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[22:59:01] [Server thread/INFO]: Loading properties
+[22:59:01] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[22:59:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:59:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:59:02] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[22:07:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[22:07:03] [Server thread/INFO]: Default game type: SURVIVAL
-[22:07:03] [Server thread/INFO]: Generating keypair
-[22:07:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:07:03] [Server thread/INFO]: Using epoll channel type
-[22:07:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[22:07:03] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[22:07:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:07:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:07:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:07:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:07:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:07:03] [Server thread/INFO]: Preparing level "world"
-[22:07:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:07:04] [Server thread/INFO]: Time elapsed: 337 ms
-[22:07:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:07:04] [Server thread/INFO]: Time elapsed: 194 ms
-[22:07:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:07:04] [Server thread/INFO]: Time elapsed: 106 ms
-[22:07:04] [Server thread/INFO]: Running delayed init tasks
-[22:07:04] [Server thread/INFO]: Done (2.768s)! For help, type "help"
-[22:07:04] [Server thread/INFO]: Timings Reset
-[22:08:32] [User Authenticator #0/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[22:08:32] [Server thread/INFO]: guts joined the game
-[22:08:32] [Server thread/INFO]: guts[/127.30.167.245:38855] logged in with entity id 358 at ([world]-12.0745808923302, 66.0, 9.21115189330732)
-[22:09:48] [Server thread/INFO]: guts lost connection: Disconnected
-[22:09:48] [Server thread/INFO]: guts left the game
-[22:14:34] [User Authenticator #1/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[22:14:34] [Server thread/INFO]: guts joined the game
-[22:14:34] [Server thread/INFO]: guts[/127.30.167.245:60891] logged in with entity id 514 at ([world]-12.0745808923302, 66.0, 9.21115189330732)
-[22:17:51] [Server thread/INFO]: guts lost connection: Disconnected
-[22:17:51] [Server thread/INFO]: guts left the game
-[22:19:06] [User Authenticator #2/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[22:19:06] [Server thread/INFO]: guts joined the game
-[22:19:06] [Server thread/INFO]: guts[/127.30.167.245:32853] logged in with entity id 827 at ([world]-6.762764961902075, 64.0, 26.78953097270617)
-[22:19:36] [Server thread/INFO]: guts has made the advancement [Smells Interesting]
-[22:21:18] [Server thread/INFO]: guts lost connection: Disconnected
-[22:21:18] [Server thread/INFO]: guts left the game
-[22:22:47] [User Authenticator #3/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[22:22:47] [Server thread/INFO]: guts joined the game
-[22:22:47] [Server thread/INFO]: guts[/127.30.167.245:34515] logged in with entity id 1044 at ([world]-10.830818089119699, 63.0, 28.113362497774244)
-[22:23:30] [Server thread/INFO]: guts lost connection: Disconnected
-[22:23:30] [Server thread/INFO]: guts left the game
-[22:26:08] [User Authenticator #4/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[22:26:08] [Server thread/INFO]: guts joined the game
-[22:26:08] [Server thread/INFO]: guts[/127.30.167.245:37189] logged in with entity id 1123 at ([world]-10.830818089119699, 63.0, 28.113362497774244)
-[22:26:25] [Server thread/INFO]: guts lost connection: Disconnected
-[22:26:25] [Server thread/INFO]: guts left the game
-[22:29:02] [User Authenticator #5/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[22:29:02] [Server thread/INFO]: guts joined the game
-[22:29:02] [Server thread/INFO]: guts[/127.30.167.245:57519] logged in with entity id 1157 at ([world]-10.977496703713348, 63.0, 27.6064973674608)
-[22:29:15] [Server thread/INFO]: guts lost connection: Disconnected
-[22:29:15] [Server thread/INFO]: guts left the game
-[22:31:00] [User Authenticator #6/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[22:31:01] [Server thread/INFO]: guts joined the game
-[22:31:01] [Server thread/INFO]: guts[/127.30.167.245:55235] logged in with entity id 1234 at ([world]-18.334157651867482, 64.0, 27.376809149207368)
-[22:31:46] [Server thread/INFO]: guts lost connection: Disconnected
-[22:31:46] [Server thread/INFO]: guts left the game
-[22:33:18] [User Authenticator #7/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[22:33:18] [Server thread/INFO]: guts joined the game
-[22:33:18] [Server thread/INFO]: guts[/127.30.167.245:40343] logged in with entity id 1325 at ([world]-15.028687522176984, 64.0, 24.836267044515214)
-[22:34:10] [Server thread/INFO]: guts lost connection: Disconnected
-[22:34:10] [Server thread/INFO]: guts left the game
-[22:38:33] [User Authenticator #8/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[22:38:33] [Server thread/INFO]: guts joined the game
-[22:38:33] [Server thread/INFO]: guts[/127.30.167.245:43927] logged in with entity id 1413 at ([world]-15.028687522176984, 64.0, 24.836267044515214)
-[22:38:38] [Server thread/INFO]: guts lost connection: Disconnected
-[22:38:38] [Server thread/INFO]: guts left the game
-[22:40:54] [User Authenticator #9/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[22:40:55] [Server thread/INFO]: guts joined the game
-[22:40:55] [Server thread/INFO]: guts[/127.30.167.245:50567] logged in with entity id 1430 at ([world]-15.028687522176984, 64.0, 24.836267044515214)
-[22:41:29] [Server thread/INFO]: guts lost connection: Disconnected
-[22:41:29] [Server thread/INFO]: guts left the game
-[22:42:50] [User Authenticator #10/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[22:42:50] [Server thread/INFO]: guts joined the game
-[22:42:50] [Server thread/INFO]: guts[/127.30.167.245:49675] logged in with entity id 1482 at ([world]-15.028687522176984, 64.0, 24.836267044515214)
-[22:43:38] [Server thread/INFO]: guts lost connection: Disconnected
-[22:43:38] [Server thread/INFO]: guts left the game
-[22:44:20] [User Authenticator #11/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[22:44:20] [Server thread/INFO]: guts joined the game
-[22:44:20] [Server thread/INFO]: guts[/127.30.167.245:36523] logged in with entity id 1561 at ([world]-15.028687522176984, 64.0, 24.836267044515214)
-[22:45:25] [Server thread/INFO]: guts lost connection: Disconnected
-[22:45:25] [Server thread/INFO]: guts left the game
-[22:46:00] [User Authenticator #12/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[22:46:00] [Server thread/INFO]: guts joined the game
-[22:46:00] [Server thread/INFO]: guts[/127.30.167.245:53951] logged in with entity id 1671 at ([world]-15.028687522176984, 64.0, 24.836267044515214)
+[22:59:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[22:59:02] [Server thread/INFO]: Default game type: SURVIVAL
+[22:59:02] [Server thread/INFO]: Generating keypair
+[22:59:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:59:02] [Server thread/INFO]: Using epoll channel type
+[22:59:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:59:02] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[22:59:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:59:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:59:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:59:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:59:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:59:02] [Server thread/INFO]: Preparing level "world"
+[22:59:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:59:03] [Server thread/INFO]: Time elapsed: 260 ms
+[22:59:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:59:03] [Server thread/INFO]: Time elapsed: 87 ms
+[22:59:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:59:03] [Server thread/INFO]: Time elapsed: 92 ms
+[22:59:04] [Server thread/INFO]: Running delayed init tasks
+[22:59:04] [Server thread/INFO]: Done (2.639s)! For help, type "help"
+[22:59:04] [Server thread/INFO]: Timings Reset
+[22:59:23] [User Authenticator #0/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
+[22:59:24] [Server thread/INFO]: guts joined the game
+[22:59:24] [Server thread/INFO]: guts[/127.30.167.245:41669] logged in with entity id 373 at ([world]-17.838606186032646, 66.0, -55.39665328163414)
+[22:59:26] [Server thread/INFO]: guts lost connection: Disconnected
+[22:59:26] [Server thread/INFO]: guts left the game
+[23:00:02] [User Authenticator #0/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
+[23:00:02] [Server thread/INFO]: guts joined the game
+[23:00:02] [Server thread/INFO]: guts[/127.30.167.245:57721] logged in with entity id 381 at ([world]-17.838606186032646, 66.0, -55.39665328163414)
+[23:03:13] [Server thread/INFO]: guts issued server command: /lo
+[23:05:22] [Server thread/INFO]: guts lost connection: Disconnected
+[23:05:22] [Server thread/INFO]: guts left the game
+[23:08:28] [User Authenticator #1/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
+[23:08:28] [Server thread/INFO]: guts joined the game
+[23:08:28] [Server thread/INFO]: guts[/127.30.167.245:56691] logged in with entity id 1073 at ([world]32.53353622241894, 71.0, 6.627150878092109)
