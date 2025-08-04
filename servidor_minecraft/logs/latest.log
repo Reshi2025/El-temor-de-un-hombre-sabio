@@ -40,3 +40,8 @@
 [19:15:58] [Server thread/INFO]: VladiTolay left the game
 [19:16:11] [Server thread/INFO]: guts lost connection: Disconnected
 [19:16:11] [Server thread/INFO]: guts left the game
+[19:26:00] [User Authenticator #1/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
+[19:26:00] [Server thread/INFO]: guts joined the game
+[19:26:00] [Server thread/INFO]: guts[/127.30.167.245:54621] logged in with entity id 438 at ([world]-12.0745808923302, 66.0, 9.21115189330732)
+[19:26:19] [Server thread/INFO]: guts lost connection: Disconnected
+[19:26:19] [Server thread/INFO]: guts left the game
