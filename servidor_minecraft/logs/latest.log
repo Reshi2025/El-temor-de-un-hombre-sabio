@@ -38,3 +38,10 @@
 [00:35:33] [User Authenticator #1/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
 [00:35:33] [Server thread/INFO]: guts joined the game
 [00:35:33] [Server thread/INFO]: guts[/127.30.167.245:48631] logged in with entity id 384 at ([world]712.0130941079439, 92.0, 708.8591614417778)
+[00:46:01] [Server thread/INFO]: guts lost connection: Disconnected
+[00:46:01] [Server thread/INFO]: guts left the game
+[00:46:54] [User Authenticator #2/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
+[00:46:54] [Server thread/INFO]: guts joined the game
+[00:46:54] [Server thread/INFO]: guts[/127.30.167.245:52607] logged in with entity id 1648 at ([world]742.1164727426197, 88.0, 727.9752292258707)
+[00:51:15] [Server thread/INFO]: guts lost connection: Disconnected
+[00:51:15] [Server thread/INFO]: guts left the game
