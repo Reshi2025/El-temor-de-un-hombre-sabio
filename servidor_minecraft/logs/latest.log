@@ -1,46 +1,40 @@
-[23:33:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:33:56] [ServerMain/INFO]: Loaded 7 recipes
-[23:33:56] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[23:33:56] [Server thread/INFO]: Loading properties
-[23:33:56] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[23:33:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[23:33:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[23:33:57] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[00:34:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:34:05] [ServerMain/INFO]: Loaded 7 recipes
+[00:34:05] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[00:34:05] [Server thread/INFO]: Loading properties
+[00:34:05] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[00:34:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:34:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:34:06] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[23:33:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[23:33:57] [Server thread/INFO]: Default game type: SURVIVAL
-[23:33:57] [Server thread/INFO]: Generating keypair
-[23:33:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:33:58] [Server thread/INFO]: Using epoll channel type
-[23:33:58] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[23:33:58] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[23:33:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[23:33:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:33:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:33:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:33:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:33:58] [Server thread/INFO]: Preparing level "world"
-[23:33:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:33:58] [Server thread/INFO]: Time elapsed: 356 ms
-[23:33:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[23:33:59] [Server thread/INFO]: Time elapsed: 104 ms
-[23:33:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[23:33:59] [Server thread/INFO]: Time elapsed: 115 ms
-[23:33:59] [Server thread/INFO]: Running delayed init tasks
-[23:33:59] [Server thread/INFO]: Done (2.498s)! For help, type "help"
-[23:33:59] [Server thread/INFO]: Timings Reset
-[23:34:37] [User Authenticator #0/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
-[23:34:37] [Server thread/INFO]: guts joined the game
-[23:34:37] [Server thread/INFO]: guts[/127.30.167.245:33467] logged in with entity id 299 at ([world]34.96822256376616, 71.0, 8.217495776448832)
-[23:35:05] [Server thread/INFO]: guts issued server command: /locate structure minecraft:village_savanna
-[23:35:06] [Server thread/INFO]: Locating element minecraft:village_savanna took 892 ms
-[23:35:15] [Server thread/INFO]: guts issued server command: /tp @s 720 ~ 720
-[23:35:18] [Server thread/INFO]: [guts: Teleported guts to 720.500000, 71.000000, 720.500000]
-[23:35:18] [Server thread/WARN]: guts moved too quickly! 685.5317774362338,0.0,712.2825042235512
-[23:36:49] [Server thread/INFO]: guts issued server command: /locate structure twilightforest:lich_tower
-[23:37:22] [Server thread/INFO]: guts issued server command: /locate structure quark:ancient_tomb
-[23:37:55] [Async Chat Thread - #1/INFO]: [Not Secure] <guts> tt
-[23:40:10] [Server thread/INFO]: guts issued server command: /locate structure twilightforest-1.20.1-4.3.2145-universal.jar
-[23:40:44] [Server thread/INFO]: guts issued server command: /locate structure YungsExtras-1.20-Forge-4.0.3.jar
-[23:40:52] [Server thread/INFO]: guts issued server command: /locate structure YungsExtras-1.20-Forge-4.0.3.jar
+[00:34:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[00:34:06] [Server thread/INFO]: Default game type: SURVIVAL
+[00:34:06] [Server thread/INFO]: Generating keypair
+[00:34:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:34:06] [Server thread/INFO]: Using epoll channel type
+[00:34:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:34:06] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[00:34:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:34:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:34:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:34:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:34:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:34:07] [Server thread/INFO]: Preparing level "world"
+[00:34:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:34:07] [Server thread/INFO]: Time elapsed: 242 ms
+[00:34:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:34:07] [Server thread/INFO]: Time elapsed: 76 ms
+[00:34:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:34:07] [Server thread/INFO]: Time elapsed: 56 ms
+[00:34:07] [Server thread/INFO]: Running delayed init tasks
+[00:34:07] [Server thread/INFO]: Done (2.341s)! For help, type "help"
+[00:34:07] [Server thread/INFO]: Timings Reset
+[00:34:30] [User Authenticator #0/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
+[00:34:30] [Server thread/INFO]: guts joined the game
+[00:34:30] [Server thread/INFO]: guts[/127.30.167.245:54241] logged in with entity id 202 at ([world]712.0130941079439, 92.0, 708.8591614417778)
+[00:34:33] [Server thread/INFO]: guts lost connection: Disconnected
+[00:34:33] [Server thread/INFO]: guts left the game
+[00:35:33] [User Authenticator #1/INFO]: UUID of player guts is 7bc876ce-86da-3f9a-9e6b-16e0ac1495a3
+[00:35:33] [Server thread/INFO]: guts joined the game
+[00:35:33] [Server thread/INFO]: guts[/127.30.167.245:48631] logged in with entity id 384 at ([world]712.0130941079439, 92.0, 708.8591614417778)
